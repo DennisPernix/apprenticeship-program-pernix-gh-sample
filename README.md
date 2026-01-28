@@ -1,4 +1,5 @@
 # Apprenticeship Program Pernix GH Sample
+# Dennis edit on read me
 
 This project is part of the Apprenticeship Program at Pernix, designed to teach participants the basics of Git and GitHub.
 
